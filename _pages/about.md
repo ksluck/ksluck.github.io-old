@@ -17,7 +17,7 @@ One area of particular interest of mine is the combination of deep reinforcement
 - (December 2022) I gave an invited talk about our work in the area of co-adaptation of robot morphology and behaviour at the AI Initiave at KAUST, Saudi Arabia.
 - (November 2022) I presented out research about evolving robots and latent embeddings together with Mhairi Dunion at the Finnish AI Day in two oral talks.
 
-![](ai_day_me.jpg)
+![](images/ai_day_me.jpg)
 
 
 <!--
