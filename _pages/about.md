@@ -13,9 +13,11 @@ One area of particular interest of mine is the combination of deep reinforcement
 
 # News & Updates
 - (February 2023) We are going to present our paper [Co-Imitation: Learning Design and Behaviour by Imitation](https://sites.google.com/view/co-imitation?pli=1) at AAAI-23 in Washington DC. Visit our oral talk in the Robotics: Optimization and Learning tack, or visit us at poster 166 on Thursday, 9th of February.
-- bla
+- (January 2023) Our paper about learning disentangled embeddings with Mhairi Dunion [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://arxiv.org/abs/2207.05480) was accepted for ICLR 2023!
+- (December 2022) I gave an invited talk about our work in the area of co-adaptation of robot morphology and behaviour at the AI Initiave at KAUST, Saudi Arabia.
+- (November 2022) I presented out research about evolving robots and latent embeddings together with Mhairi Dunion at the Finnish AI Day in two oral talks.
 
-
+![](ai_day_me.jpg)
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
