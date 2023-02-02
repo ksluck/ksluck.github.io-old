@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a postdoctoral researcher at the Aalto University and the Finnish Center for Artificial Intelligence in Espoo (Helsinki), Finland, where I am hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
+I am currently working as a postdoctoral researcher at the Aalto University and the [Finnish Center for Artificial Intelligence](https://fcai.fi/) in Espoo (Helsinki), Finland, where I am hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
 One area of particular interest of mine is the combination of deep reinforcement learning with evolutionary principles, for the development of AI-assisted design methodologies and physical/embodied intelligence, to allow robots to co-adapt both their behaviour and morpoholgy.
+
+Keywords: (Deep) Reinforcement Learning, Robot Learning, Embodied Intelligence, Evolving Robots
 
 # News & Updates
 - (February 2023) We are going to present our paper [Co-Imitation: Learning Design and Behaviour by Imitation](https://sites.google.com/view/co-imitation?pli=1) at AAAI-23 in Washington DC. Visit our oral talk in the Robotics: Optimization and Learning tack, or visit us at poster 166 on Thursday, 9th of February.
