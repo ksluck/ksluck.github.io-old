@@ -14,7 +14,7 @@ One area of particular interest of mine is the combination of deep reinforcement
 Keywords: (Deep) Reinforcement Learning, Robot Learning, Embodied Intelligence, Evolving Robots
 
 # News & Updates
-- (February 2023) We are going to present our paper [Co-Imitation: Learning Design and Behaviour by Imitation](https://sites.google.com/view/co-imitation?pli=1) at AAAI-23 in Washington DC. Visit our oral talk in the Robotics: Optimization and Learning tack, or visit us at poster 166 on Thursday, 9th of February.
+- (February 2023) We are going to present our paper [Co-Imitation: Learning Design and Behaviour by Imitation](https://sites.google.com/view/co-imitation?pli=1) at AAAI-23 in Washington DC. Visit our oral talk in the HAI: Human-in-the-Loop Machine Learning track at 2PM, or visit us at poster 166 on Thursday, 9th of February.
 - (January 2023) Our paper about learning disentangled embeddings with Mhairi Dunion [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://arxiv.org/abs/2207.05480) was accepted for ICLR 2023!
 - (December 2022) I gave an invited talk about our work in the area of co-adaptation of robot morphology and behaviour at the AI Initiave at KAUST, Saudi Arabia.
 - (December 2022) Visit our posters at the NeurIPS workshop for [Deep Reinforcement Learning 2022](https://sites.google.com/view/deep-rl-workshop-neurips-2022), with Mhairi Dunion and Chang Rajani presenting their PhD work!
