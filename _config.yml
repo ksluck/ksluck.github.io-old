@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Kevin Sebastian Luck"
+title                    : "Kevin Sebastian Luck"
 title_separator          : "-"
 name                     : &name "Kevin Sebastian Luck"
 description              : &description This is the personal website of Kevin Sebastian Luck, PhD"
