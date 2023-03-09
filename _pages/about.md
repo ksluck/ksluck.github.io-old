@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research and News"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,8 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a postdoctoral researcher at the Aalto University and the Finnish Center for Artificial Intelligence in Espoo (Helsinki), Finland, where I am hosted by the Intelligent Robotics Group of Ville Kyrki. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
+I am currently working as a postdoctoral researcher at the Aalto University and the [Finnish Center for Artificial Intelligence](https://fcai.fi/) in Espoo (Helsinki), Finland, where I am hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
 One area of particular interest of mine is the combination of deep reinforcement learning with evolutionary principles, for the development of AI-assisted design methodologies and physical/embodied intelligence, to allow robots to co-adapt both their behaviour and morpoholgy.
+
+Keywords: (Deep) Reinforcement Learning, Robot Learning, Embodied Intelligence, Evolving Robots
+
+# News & Updates
+- (February 2023) We are going to present our paper [Co-Imitation: Learning Design and Behaviour by Imitation](https://sites.google.com/view/co-imitation?pli=1) at AAAI-23 in Washington DC. Visit our oral talk in the HAI: Human-in-the-Loop Machine Learning track at 2PM, or visit us at poster 166 on Thursday, 9th of February.
+- (January 2023) Our paper about learning disentangled embeddings with Mhairi Dunion [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://arxiv.org/abs/2207.05480) was accepted for ICLR 2023!
+- (December 2022) I gave an invited talk about our work in the area of co-adaptation of robot morphology and behaviour at the AI Initiave at KAUST, Saudi Arabia.
+- (December 2022) Visit our posters at the NeurIPS workshop for [Deep Reinforcement Learning 2022](https://sites.google.com/view/deep-rl-workshop-neurips-2022), with Mhairi Dunion and Chang Rajani presenting their PhD work!
+- (November 2022) I presented out research about evolving robots and latent embeddings together with Mhairi Dunion at the Finnish AI Day in two oral talks.
+
+![](images/ai_day_me.jpg)
+
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

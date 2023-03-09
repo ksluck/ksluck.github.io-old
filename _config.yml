@@ -86,7 +86,7 @@ author:
   location         : "Helsinki, Finland"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ch3HQs8AAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
