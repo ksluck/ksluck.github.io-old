@@ -19,16 +19,14 @@ Thesis Students
  * Jed Muff, Aalto University, Simulated Co-Adaptation of Robots
  * Oskar Keurulainen, Aalto University, Hypernetworks
  * Hannes Pitkänen, Aalto University, Real-World Co-Adaptation
- *
 
  Project Students
- ======
+======
   * Sylvia Cressman, Aalto University, 3D CAD Design of Robot Hardware
   * Sergio Hernandez Gutierrez, Aalto University, Imitation Learning and Reinforcement Learning
 
 Past Students
- ======
+======
  * Maria Sliacka, Master Student, Continuum Industires
  * Timofey Abramski, Master Student, Apple
  * Oisin Turbitt, Master Student, Medicines Discovery Catapult
- *
