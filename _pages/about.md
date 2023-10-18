@@ -7,13 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am currently working as a postdoctoral researcher at the Aalto University and the [Finnish Center for Artificial Intelligence](https://fcai.fi/) in Espoo (Helsinki), Finland, where I am hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
+I am an Assistant Professor in the Computatioal Intelligence Group at the Vrije Universiteit Amsterdam. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
 One area of particular interest of mine is the combination of deep reinforcement learning with evolutionary principles, for the development of AI-assisted design methodologies and physical/embodied intelligence, to allow robots to co-adapt both their behaviour and morpoholgy.
+Before I joined Amsterdam I worked as postdoctoral researcher at the Aalto University and the [Finnish Center for Artificial Intelligence](https://fcai.fi/) in Espoo (Helsinki), Finland, where I am hosted by the [Intelligent Robotics Group](https://irobotics.aalto.fi/) of Ville Kyrki.
 
 Keywords: (Deep) Reinforcement Learning, Robot Learning, Embodied Intelligence, Evolving Robots
 
 # News & Updates
+- (October 2023) Our papers on [disentangled representations for RL](https://arxiv.org/pdf/2305.14133.pdf) and [Equivariances in Neural Processes](https://arxiv.org/pdf/2306.10915.pdf) got accepted to NeurIPS 2023!
+- I presented our paper on Model-Based Co-Adaptation at LOD 2023
+- (September 2023) I started my new position as Assistant Professor of Computational Intelligence at the Vrije Universiteit Amsterdam in the Netherlands.
+- (September 2023) I am a co-organizer of the [ELLIS Robust ML Workshop](https://sites.google.com/view/ellis-robust-ml-workshop).
+- (September 2023) I joined the [ELLIS society](https://ellis.eu/) (European Laboratory for Learning and Intelligent Systems).
+- (April 2023) I am an Associated Editor for IROS 2023
 - (February 2023) We are going to present our paper [Co-Imitation: Learning Design and Behaviour by Imitation](https://sites.google.com/view/co-imitation?pli=1) at AAAI-23 in Washington DC. Visit our oral talk in the HAI: Human-in-the-Loop Machine Learning track at 2PM, or visit us at poster 166 on Thursday, 9th of February.
 - (January 2023) Our paper about learning disentangled embeddings with Mhairi Dunion [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://arxiv.org/abs/2207.05480) was accepted for ICLR 2023!
 - (December 2022) I gave an invited talk about our work in the area of co-adaptation of robot morphology and behaviour at the AI Initiave at KAUST, Saudi Arabia.
