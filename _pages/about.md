@@ -15,7 +15,7 @@ Keywords: (Deep) Reinforcement Learning, Robot Learning, Embodied Intelligence, 
 
 # News & Updates
 - (October 2023) Our papers on [disentangled representations for RL](https://arxiv.org/pdf/2305.14133.pdf) and [Equivariances in Neural Processes](https://arxiv.org/pdf/2306.10915.pdf) got accepted to NeurIPS 2023!
-- I presented our paper on Model-Based Co-Adaptation at LOD 2023
+- (September 2023) I presented our paper on Model-Based Co-Adaptation at LOD 2023
 - (September 2023) I started my new position as Assistant Professor of Computational Intelligence at the Vrije Universiteit Amsterdam in the Netherlands.
 - (September 2023) I am a co-organizer of the [ELLIS Robust ML Workshop](https://sites.google.com/view/ellis-robust-ml-workshop).
 - (September 2023) I joined the [ELLIS society](https://ellis.eu/) (European Laboratory for Learning and Intelligent Systems).
