@@ -2,7 +2,7 @@
 title: "Learning morphology-independent state embeddings for morphology-invariant reinforcement learning"
 collection: master
 type: "Master thesis"
-permalink: /thesis/m-2023-1
+permalink: /master/m-2023-1
 ---
 
 
