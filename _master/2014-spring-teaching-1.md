@@ -1,0 +1,15 @@
+---
+title: "Learning morphology-independent state embeddings for morphology-invariant reinforcement learning"
+collection: master
+type: "Master thesis"
+permalink: /thesis/m-2023-1
+---
+
+
+This thesis is based on our work on disentangling image embeddings for reinforcement learning ([here](https://arxiv.org/pdf/2305.14133.pdf) and [here](https://arxiv.org/pdf/2207.05480.pdf)). The core idea is to extend this work and focus on learning state spaces which are invariant with respect to the morphology of a robot, ie the dimensions of a robot's limbs do not cause large shifts in the latent space. The hypothesis is that by doing so we learn a latent image embedding which is robust to morphology changes and does not cause catastrophic forgetting or sudden instabilities in the reinforcement learning algorithm & policy when we switch from one robot morphology to another. See [here](http://proceedings.mlr.press/v100/luck20a/luck20a.pdf) for additional background reading.
+
+This thesis requires:
+- An understanding of deep learning and the basics of reinforcement learning
+- the willingness to work with simulated robots
+- Python
+- Pytorch
