@@ -3,9 +3,7 @@ title: "Master/Bachelor Thesis: 'Propose/Build your own'-Thesis"
 collection: thesis
 type: "Master thesis"
 permalink: /thesis/m-generic
-venue: "University 1, Department"
 date: 2023-10-17
-location: "City, Country"
 ---
 Keywords: Reinforcement Learning, Robotics, Continuous Control
 
