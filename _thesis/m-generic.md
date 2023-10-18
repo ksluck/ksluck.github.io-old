@@ -1,5 +1,5 @@
 ---
-title: "Master/Bachelor Thesis: "Propose/Build your own"-Thesis"
+title: "Master/Bachelor Thesis: 'Propose/Build your own'-Thesis"
 collection: thesis
 type: "Master thesis"
 permalink: /thesis/m-generic
